@@ -54,13 +54,16 @@ Leaf-Xplore-Plant-Disease-Detection
 
 └── README.md               # Project overview
 
-#  📸 Sample Output
+# 📸 Sample Output
 
-🧪 Healthy Leaf Prediction
-![Healthy ](https://github.com/user-attachments/assets/bdd516f3-d1bc-4a81-96be-36c0f0a93b2b)
+### 🧪 Healthy Leaf Prediction
+![Healthy](https://github.com/user-attachments/assets/bdd516f3-d1bc-4a81-96be-36c0f0a93b2b)
 
-🌿 Powdery Leaf Prediction
-![Powdery Leaf](assets/powdery.jpeg)
+---
+
+### 🌿 Powdery Leaf Prediction
+![Powdery](https://github.com/user-attachments/assets/026809dd-51c2-4d6a-9c09-e134d542cf06)
+
 
 # 🎯 Future Enhancements
 
